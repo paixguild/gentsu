@@ -1,4 +1,5 @@
 銀河歴 2019 年 11 月 24日
+<td align="right">align="right"銀河歴 2019 年 11 月 24日</td>
 
 社員諸君
 gentsu
